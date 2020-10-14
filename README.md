@@ -1,3 +1,5 @@
+**This gem is now maintained by Urbanairship.** You can find the canonical fork here: https://github.com/urbanairship/ruby-library
+
 [![Build Status](https://travis-ci.org/urbanairship/ruby-library.svg?branch=master)](https://travis-ci.org/urbanairship/ruby-library)
 
 *Note*: This is an open source Ruby library, generously contributed by Groupon, for the Urban Airship v1 API. UA is currently working on a rewrite for our current (v3) API, and will publish updates shortly (though no new code has been released yet). We wish to thank Groupon for their quality engineering work and stewardship of the project.
